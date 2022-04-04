@@ -14,3 +14,26 @@ Tambahkan kode untuk membuat box elemen dengan tag div seperti berikut.
 # 2. CSS Float property
 Selanjutnya tambahnya deklarasin CSS pada head untuk membuat float element,seperti berikut,kemudian buka browser untuk melihat hasilnya.
 ![p](gambar/3.PNG)
+
+# 3. Mengatur Clearfix Element
+Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
+
+Tambahkan element div lainnya setelah div3 seperti berikut.
+![p](gambar/4.PNG)
+
+Kemudian atur Proprty Clear pada CSS,seperti berikut.
+![p](gambar/5.PNG)
+
+Selanjutnya buka browser dan refresh kembali.
+![p](gambar/6.PNG)
+
+# 4. Membuat Layout Sederhana
+Kita akan membuat layout web
+sederhana seperti gambar berikut.
+(tertera di modul praktikum)
+
+Buat folder baru dengan nama 
+lab4_layout,kemudian buatlah file baru
+didalamnya dengan nama home,html,dan
+file css dengan nama style.css
+![p](gambar/7.PNG)
