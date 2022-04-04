@@ -42,3 +42,11 @@ kemudian tulis berikut,lalu buka
 browser dan lihat hasilny.
 ![p](gambar/7.PNG)
 
+Kemudian tambahkan kode CSS
+untuk membuat layoutnya.
+![p](gambar/8.PNG)
+
+# 5. Membuat Navigasi
+
+Kemudian selanjutnya mengatur
+navigasi,lalu hasilnya
