@@ -36,4 +36,9 @@ Buat folder baru dengan nama
 lab4_layout,kemudian buatlah file baru
 didalamnya dengan nama home,html,dan
 file css dengan nama style.css
+![p](gambar/101.PNG)
+
+kemudian tulis berikut,lalu buka
+browser dan lihat hasilny.
 ![p](gambar/7.PNG)
+
