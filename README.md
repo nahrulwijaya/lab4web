@@ -22,10 +22,10 @@ Tambahkan element div lainnya setelah div3 seperti berikut.
 ![p](gambar/4.PNG)
 
 Kemudian atur Proprty Clear pada CSS,seperti berikut.
-![p](gambar/5.PNG)
+![p](gambar/100.PNG)
 
 Selanjutnya buka browser dan refresh kembali.
-![p](gambar/6.PNG)
+![p](gambar/5.PNG)
 
 # 4. Membuat Layout Sederhana
 Kita akan membuat layout web
