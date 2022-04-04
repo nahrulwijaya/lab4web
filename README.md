@@ -51,3 +51,15 @@ untuk membuat layoutnya.
 Kemudian selanjutnya mengatur
 navigasi,lalu hasilnya
 ![p](gambar/9.PNG)
+
+# 6. Membuat Hero Panel
+
+Selanjutnya membuat hero panel.
+Tambahkan kode HTML dan CSS seperti berikut
+![p](gambar/10.PNG)
+
+# CSS
+![P](gambar/11.PNG)
+
+# Hasilnya
+![p](gambar/12.PNG)
