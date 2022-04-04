@@ -50,3 +50,4 @@ untuk membuat layoutnya.
 
 Kemudian selanjutnya mengatur
 navigasi,lalu hasilnya
+![p](gambar/9.PNG)
